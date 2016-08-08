@@ -1,0 +1,98 @@
+_repo: Gesammelte-Werke-in-f-nf-B-nden---1.-Band_12921
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Morgenstern, Christian
+    birthdate: 1871
+    deathdate: 1914
+    gutenberg_agent_id: '3106'
+    url: http://www.gutenberg.org/2009/agents/3106
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Christian_Morgenstern
+    - http://en.wikipedia.org/wiki/Christian_Morgenstern
+  - agent_name: Mjöen, Cläre Greverus
+    aliases:
+    - Mjøen, Cläre Greverus
+    - Mjoen, Clare Greverus
+    gutenberg_agent_id: '26370'
+    url: http://www.gutenberg.org/2009/agents/26370
+  - agent_name: Woerner, Roman
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '26359'
+    url: http://www.gutenberg.org/2009/agents/26359
+  - agent_name: Fulda, Ludwig
+    alias: Salomon, Ludwig Anton
+    birthdate: 1862
+    deathdate: 1939
+    gutenberg_agent_id: '5415'
+    url: http://www.gutenberg.org/2009/agents/5415
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_Fulda
+  - agent_name: Bamberger, Max
+    gutenberg_agent_id: '26356'
+    url: http://www.gutenberg.org/2009/agents/26356
+creator:
+  author:
+    agent_name: Bjørnson, Bjørnstjerne
+    aliases:
+    - Björnson, Björnstjerne
+    - Bjornson, Bjornstjerne
+    birthdate: 1832
+    deathdate: 1910
+    gutenberg_agent_id: '1772'
+    url: http://www.gutenberg.org/2009/agents/1772
+    wikipedia: http://en.wikipedia.org/wiki/Bjørnstjerne_Bjørnson
+  editor:
+    agent_name: Elias, Julius
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '4717'
+    url: http://www.gutenberg.org/2009/agents/4717
+description: ''
+gutenberg_bookshelf:
+- DE Prosa
+- DE Lyrik
+gutenberg_issued: '2004-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12921'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scandinavian poetry -- Translations into German'
+- !lcsh 'Norway -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+- GITenberg
+tableOfContents: "Nils Finn -- Lied der Jungfrauen -- Die Taube -- Vaterlandsweise\
+  \ -- Ein Lied für Norwegen -- Norwegens Antwort auf die Reden im schwedischen Ritterhaus\
+  \ -- Johan Ludvig Heiberg -- Das Meer -- Allein und in Reue -- Die Prinzessin --\
+  \ Vom Monte Pincio -- Ach, wüßtest du nur! -- Die Engel des Schlafes -- Das Mädchen\
+  \ am Strand -- Heimliche Liebe -- Olav Trygvason -- Seufzer -- An ein Patenkind\
+  \ -- Bergliot -- An meine Frau -- In einer schweren Stunde -- Frida -- An Bergen\
+  \ -- P.A. Munch -- König Friedrich der Siebente -- Als Norwegen nicht helfen wollte\
+  \ -- An den Danebrog -- Der Norrönastamm -- Gesang der Puritaner -- Jagdlied --\
+  \ Taylors Lied -- Hochzeitslied I. -- Lektor Thåsen -- Auf einer Reise durch Schweden\
+  \ -- Stelldichein -- Lied des Studentengesangvereins -- An den Buchhändler Johann\
+  \ Dahl -- Die Spinnerin -- Die weiße und die rote Rose -- In der Jugend -- Das blonde\
+  \ Mädchen -- Mein Monat -- Hochzeitslied II. -- Norwegisches Seemannslied -- Halfdan\
+  \ Kjerulf -- Vorwärts -- Wie man sich fand -- Norwegische Natur -- Ich reiste vorüber\
+  \ -- Mein Geleit -- An meinen Vater -- An Erika Lie -- An Johan Sverdrup -- Das\
+  \ Kind in unsrer Seele -- Der alte Heltberg -- Für die Verwundeten -- Land in Sicht\
+  \ -- An H.C. Andersen -- Bei einer Ehefrau -- Tode -- An der Bahre des Kirchensängers\
+  \ A. Reitan -- Das Lied -- Auf N.F.S. Grundtvigs Tod -- Aus der Kantate für N.F.S.\
+  \ Grundtvig -- Bei einem Fest für Ludv. Kr. Daa -- Nein, wo bleibst du doch? --\
+  \ Weckruf an das Freiheitsvolk im Norden--Der \"vereinigten Linken\" -- Offne Wasser\
+  \ -- Freiheitslied--An \"die vereinigte Linke\" -- An Molde -- Die reine norwegische\
+  \ Flagge -- An den Missionar Skrefsrud in Santalistan -- Post festum -- Romsdalen\
+  \ -- Holger Drachmann -- Wiedersehen -- Des Dichters Sendung -- Psalmen -- Frage\
+  \ und Antwort -- Wecklied an die norwegische Schützengilde -- Arbeitermarsch --\
+  \ Der Zukunft Land -- Ein junges Völkchen kerngesund -- Norge, Norge -- Meistern\
+  \ oder gemeistert werden -- Im Walde -- Der siebzehnte Mai -- Frederik Hegel --\
+  \ Unsere Sprache\r\n\r\nThrond (1856)\r\nDie gefährliche Freite (1856)\r\nSynnöve\
+  \ Solbakken (1857)\r\nArne (1858)\r\nEin fröhlicher Bursch (1859)\r\nDer Vater (1859)\r\
+  \nDas Fischermädel (1868)"
+title: Gesammelte Werke in fünf Bänden — 1. Band
+url: http://www.gutenberg.org/ebooks/12921
