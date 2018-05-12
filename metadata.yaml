@@ -1,5 +1,5 @@
 _repo: Gesammelte-Werke-in-f-nf-B-nden---1.-Band_12921
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translators:
   - agent_name: Morgenstern, Christian
@@ -31,6 +31,9 @@ contributor:
   - agent_name: Bamberger, Max
     gutenberg_agent_id: '26356'
     url: http://www.gutenberg.org/2009/agents/26356
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bjørnson, Bjørnstjerne
@@ -49,6 +52,8 @@ creator:
     gutenberg_agent_id: '4717'
     url: http://www.gutenberg.org/2009/agents/4717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12921#Gesammelte-Werke-in-f-nf-B-nden---1.-Band
 gutenberg_bookshelf:
 - DE Prosa
 - DE Lyrik
